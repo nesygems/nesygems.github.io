@@ -36,6 +36,7 @@ NeSy-GeMs encourages short papers and extended abstracts on recently published w
 * Neural probabilistic logic programming
 * Semantic Parsing (e.g., text to SQL, text to SPARQL)
 * Neurosymbolic Programming languages (e.g., [DeepProbLog](https://github.com/ML-KULeuven/deepproblog), [TerpreT](https://arxiv.org/abs/1608.04428))
+* Probabilistic programming tools for Neurosymbolic generative models
 * Meta-Learning for Neurosymbolic AI
 * Neurosymbolic generative modeling for Interpretable AI
 * Structured world models

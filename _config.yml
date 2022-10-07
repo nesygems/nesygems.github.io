@@ -24,13 +24,28 @@ description: >- # this means to ignore newlines until "baseurl:"
   We are organizing a very exciting workshop on the intersection of Neurosymbolic and Generative Modeling. The workshop is scheduled to take place jointly with ICLR 2023 in Kigali, Rwanda, from the 1st to the 5th of May. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: emilevankrieken
+twitter_username: NeSy_GeMs
 github_username:  nesygems
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+- organizers.md
+- contact.md
+
+# Define collections (speakers, organizers, papers)
+# To turn off any of these collections, just set "output" to "false"
+collections:
+#  speakers:
+#    output: true
+  organizers:
+    sort_by: sequence_id
+    output: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +66,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# A two-line attribution (remove this if you have to, but we'd appreciate if you leave this as is)
+attribution: >
+  Based on a <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> template from a <a href="https://krrish94.github.io">lazy grad student</a>.

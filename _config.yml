@@ -27,24 +27,32 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NeSy_GeMs
 github_username:  nesygems
 
-# Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 header_pages:
+- index.md
+- speakers.md
 - organizers.md
-- contact.md
+- callforpapers.md
+- schedule.md
+- papers.md
+- contactus.md
 
 # Define collections (speakers, organizers, papers)
 # To turn off any of these collections, just set "output" to "false"
 collections:
-#  speakers:
-#    output: true
+  speakers:
+    output: false
   organizers:
-    sort_by: sequence_id
     output: true
+  schedule:
+    sort_by: sequence_id
+    output: false
+  papers:
+    sort_by: sequence_id
+    output: false
 
 
 # Exclude from processing.

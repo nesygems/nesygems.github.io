@@ -16,4 +16,4 @@ img: jane.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Jane Doe is the Foo professor of AI at Buzz University. She also leads the FooBar team at BuzzFizz Corp. Her research interests include FooBuzz, BarFizz, and FooBarBuzzFizz.
+

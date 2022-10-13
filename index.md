@@ -18,15 +18,7 @@ NeSy-GeMs (Neurosymbolic Generative Models) is a new workshop at ICLR 2023 with 
 * **Camera-ready deadline**: Apr. 20th, 2023 (AoE)
 * **Workshop date**: May 5th, 2023
 
-
-We target researchers from different backgrounds.  
-
-<!-- * **Machine learning researchers** can present advances in meta-learning, reinforcement learning and program synthesis. AIPLANS offers these participants an opportunity to share their research and learn about new automatic programming languages and techniques for inference.
-* **Programming language designers** can give insight into the design and implementation of automatic programming languages and DSLs. AIPLANS offers them the opportunity to gather feedback about design choices, promote the language and engage with their users.
-* **Programming language theorists** can present fundamental theory of mechanical reasoning and automatic programming languages, such as functional, semiring or array programming. AIPLANS will help them bridge the gap between theory and practice, and gain insight into the capabilities and limitations of machine learning technology. -->
-
-
-NeSy-GeMs encourages short papers and extended abstracts on recently published work on the following list of topics:
+We target researchers from different backgrounds. NeSy-GeMs encourages short papers (4 pages) and extended abstracts on recently published work on the following list of topics:
 
 * Neurosymbolic Program Synthesis
 * Generative models for discrete structures (e.g., generative models of graphs)

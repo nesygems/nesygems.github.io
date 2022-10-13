@@ -11,7 +11,7 @@ affil: UCLA, USA
 affil_link: https://www.ucla.edu/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: jane.jpg
+img: Guy.jpeg
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->

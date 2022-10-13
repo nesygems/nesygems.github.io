@@ -11,7 +11,7 @@ affil: UCSD, USA
 affil_link: https://ucsd.edu/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: jane.jpg
+img: Judith.jpg
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->

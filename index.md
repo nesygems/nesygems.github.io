@@ -24,7 +24,7 @@ We target researchers from different backgrounds. NeSy-GeMs encourages short pap
 * Generative models for discrete structures (e.g., generative models of graphs)
 * Generative models with symbolic background knowledge
 * Probabilistic circuits and tractable models
-* Neural-symbolic reasoning? (e.g., automated program verification and testing)
+* Neurosymbolic reasoning (e.g., automated program verification and testing)
 * Neural probabilistic logic programming
 * Semantic Parsing (e.g., text to SQL, text to SPARQL)
 * Neurosymbolic Programming languages (e.g., [DeepProbLog](https://github.com/ML-KULeuven/deepproblog), [TerpreT](https://arxiv.org/abs/1608.04428))

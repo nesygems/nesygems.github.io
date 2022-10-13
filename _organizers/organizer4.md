@@ -1,15 +1,15 @@
 ---
 # Name of the organizer
-name: Halley Young 
+name: Disha Shrivastava
 
 # Link to the organizer's webpage
-webpage: https://www.cis.upenn.edu/~halleyy/
+webpage: https://shrivastavadisha.github.io/
 
 # Primary affiliation
-affil:  University of Pennsylvania
+affil:  Mila Quebec's Artificial Intelligence ecosystem, Canada
 # Link to the primary affiliation
-affil_link: https://www.upenn.edu/
+affil_link: https://mila.quebec/en/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: halley.jpg
+img: c-disha.jpg
 ---

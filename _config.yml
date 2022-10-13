@@ -35,10 +35,10 @@ header_pages:
 - index.md
 - speakers.md
 - organizers.md
-- callforpapers.md
-- schedule.md
-- papers.md
-- contactus.md
+- contact.md
+#- callforpapers.md
+#- schedule.md
+#- papers.md
 
 # Define collections (speakers, organizers, papers)
 # To turn off any of these collections, just set "output" to "false"

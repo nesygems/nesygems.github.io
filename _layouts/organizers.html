@@ -27,9 +27,9 @@ layout: default
 		            <div class="people-name text-center">
 		            	<!-- organizer name (link to webpage if provided) -->
 		            	{% if organizer.webpage %}
-		            		<a href="{{ organizer.webpage }}" target="_blank">{{ organizer.name }}</a>
+		            		<b><a href="{{ organizer.webpage }}" target="_blank">{{ organizer.name }}</a></b>
 		            	{% else %}
-		            		{{ organizer.name }}
+		            		<b>{{ organizer.name }}</b>
 		            	{% endif %}
 		                <br>
 		                <!-- organizer affiliation (if provided) -->

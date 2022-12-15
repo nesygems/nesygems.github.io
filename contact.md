@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Feel free to reach out at [nesygems@gmail.com](mailto:nesygems@gmail.com).
+Feel free to reach out at [nesy-gems2023@googlegroups.com](mailto:nesy-gems2023@googlegroups.com).

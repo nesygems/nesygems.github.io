@@ -24,3 +24,14 @@ We target researchers from different backgrounds. NeSy-GeMs encourages short pap
 
 
 For questions, reach out to [our Google Groups](https://groups.google.com/g/nesy-gems2023).
+
+# Organizers
+- **[Thiviyan Thanapalasingam](https://thiviyansingam.com/)** (University of Amsterdam)
+- **[Emile van Krieken](https://emilevankrieken.com)** (Vrije Universiteit Amsterdam)
+- **[Halley Young](https://www.cis.upenn.edu/~halleyy/)** (University of Pennsylvania)
+- **[Disha Shrivastava](https://shrivastavadisha.github.io/)** (MILA)
+- **[Jakub M. Tomczak](https://jmtomczak.github.io/)** (Vrije Universiteit Amsterdam)
+- **[Kevin Ellis](https://www.cs.cornell.edu/~ellisk/)** (Cornell University)
+
+# Contact
+We encourage posting all general questions on our [Google Groups](https://groups.google.com/g/nesy-gems2023). For private or specific questions, contact [nesygems2023@gmail.com](mailto:nesygems2023@gmail.com).

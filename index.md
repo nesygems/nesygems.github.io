@@ -14,6 +14,7 @@ NeSy-GeMs (Neurosymbolic Generative Models) is a new hybrid workshop at ICLR 202
 
 Neurosymbolic Generative Models have recently gained attention as a promising approach to integrate the strengths of both symbolic reasoning and deep generative modeling. These models combine the ability of symbolic models to explicitly represent abstract concepts and logical reasoning with the ability of neural models to learn and generalize from data.
 
+### Important dates
 * **Call for Papers released**: Dec. 16th, 2022
 * **Paper submission deadline**: Feb. 3rd, 2023 (AoE)
 * **Reviews released**: Mar. 3rd, 2023
@@ -23,9 +24,9 @@ Neurosymbolic Generative Models have recently gained attention as a promising ap
 We target researchers from different backgrounds. NeSy-GeMs encourages short papers (4 pages) and extended abstracts on recently published work. See the [call for papers](callforpapers.md) for more information.
 
 
-For questions, reach out to [our Google Groups](https://groups.google.com/g/nesy-gems2023).
+<!-- For questions, reach out to [our Google Groups](https://groups.google.com/g/nesy-gems2023). -->
 
-## Organizers
+### Organizers
 - **[Thiviyan Thanapalasingam](https://thiviyansingam.com/)** (University of Amsterdam)
 - **[Emile van Krieken](https://emilevankrieken.com)** (Vrije Universiteit Amsterdam)
 - **[Halley Young](https://www.cis.upenn.edu/~halleyy/)** (University of Pennsylvania)
@@ -33,5 +34,5 @@ For questions, reach out to [our Google Groups](https://groups.google.com/g/nesy
 - **[Jakub M. Tomczak](https://jmtomczak.github.io/)** (Vrije Universiteit Amsterdam)
 - **[Kevin Ellis](https://www.cs.cornell.edu/~ellisk/)** (Cornell University)
 
-## Contact
+### Contact
 We encourage posting all general questions on our [Google Groups](https://groups.google.com/g/nesy-gems2023). For private or specific questions, contact [nesygems2023@gmail.com](mailto:nesygems2023@gmail.com).

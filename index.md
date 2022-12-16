@@ -34,5 +34,8 @@ We target researchers from different backgrounds. NeSy-GeMs encourages short pap
 - **[Jakub M. Tomczak](https://jmtomczak.github.io/)** (Vrije Universiteit Amsterdam)
 - **[Kevin Ellis](https://www.cs.cornell.edu/~ellisk/)** (Cornell University)
 
+### Program Committee
+TBA
+
 ### Contact
 We encourage posting all general questions on our [Google Groups](https://groups.google.com/g/nesy-gems2023). For private or specific questions, contact [nesygems2023@gmail.com](mailto:nesygems2023@gmail.com).

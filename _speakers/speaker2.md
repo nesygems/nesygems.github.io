@@ -16,4 +16,4 @@ img: Judith.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-
+Judith Fan is an assistant professor at the University of California, San Diego in the Department of Psychology. She employs converging approaches from cognitive science, computational neuroscience, and artificial intelligence to reverse engineer the human mind. In 2016 she obtained a Ph.D. at Princeton University on the role of cognitive actions in learning.

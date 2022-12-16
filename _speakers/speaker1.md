@@ -16,3 +16,4 @@ img: Daniel.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
+Daniel Tarlow is a research scientist at Google Brain in Montreal and an adjunct professor at McGill University. He completed his Ph.D. at the University of Toronto in 2013 on modeling domains with complex structures. Daniel has worked on Neurosymbolic Programming methods such as DeepCoder and TerpreT, and on structured prediction. 

@@ -33,10 +33,10 @@ plugins:
 
 header_pages:
 - index.md
+- callforpapers.md
 - speakers.md
 - organizers.md
 - contact.md
-#- callforpapers.md
 #- schedule.md
 #- papers.md
 

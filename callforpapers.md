@@ -4,4 +4,34 @@ title: Call for papers
 permalink: /callforpapers/
 ---
 
-Your call for papers goes here.
+# Important dates
+* **Call for Papers released**: Dec. 16th, 2022
+* **Paper submission deadline**: Feb. 3rd, 2023 (AoE)
+* **Reviews released**: Mar. 3rd, 2023
+* **Camera-ready deadline**: Apr. 20th, 2023 (AoE)
+* **Hybrid workshop date**: May 4th or May 5th, 2023
+
+
+# Call for papers
+Neurosymbolic generative models have recently gained significant attention as a promising approach to integrate the strengths of both symbolic and neural models. These models combine the ability of symbolic models to explicitly represent abstract concepts and logical reasoning with the ability of neural models to learn and generalize from data.
+
+NeSy-GeMs will be a hybrid workshop. We invite short papers and extended abstracts of recently published work, both max 4 pages without references. We will do light double-blind reviewing on Openreview. Reviews will remain closed after the decisions, and this workshop will have no proceedings.
+
+We invite researchers to submit papers, both theoretical and empirical, on all aspects of Neurosymbolic generative models, including but explicitly not limited to:
+* Neurosymbolic Programming
+* Generative models for discrete structures (e.g., generative models of graphs)
+* Generative models with symbolic background knowledge
+* Probabilistic circuits and tractable models
+* Neurosymbolic reasoning
+* Semantic Parsing
+<!-- * Meta-Learning for Neurosymbolic AI -->
+<!-- * Neurosymbolic generative modeling for Interpretable AI -->
+* Structured world models
+* Object-centric learning
+* Applications of Neurosymbolic generative modeling, such as natural language processing, computer vision, programming, and robotics
+
+Researchers in the broader fields of generative modeling and Neurosymbolic AI are encouraged to submit work if the relevance to the intersection of Neurosymbolic and generative modeling is clear. Please ask on our [Google Groups](https://groups.google.com/g/nesy-gems2023) or [mail us](mailto:nesygems2023@gmail.com) when in doubt if a paper fits the topic of the workshop.
+
+We will provide the submission link provided soon.
+
+We encourage posting all general questions about the call for papers on our [Google Groups](https://groups.google.com/g/nesy-gems2023). For private or specific questions, contact [nesygems2023@gmail.com](mailto:nesygems2023@gmail.com).

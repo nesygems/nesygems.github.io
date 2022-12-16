@@ -1,1 +1,2 @@
 Neurosymbolic
+NeSy-GeMs

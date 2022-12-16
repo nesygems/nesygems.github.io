@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Feel free to reach out at [nesy-gems2023@googlegroups.com](mailto:nesy-gems2023@googlegroups.com).
+We encourage posting all general questions on our [Google Groups](https://groups.google.com/g/nesy-gems2023). For private or specific questions, contact [nesygems2023@gmail.com](mailto:nesygems2023@gmail.com).

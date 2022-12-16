@@ -15,4 +15,4 @@ img: Guy.jpeg
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
-
+Guy van den Broeck is an associate professor at the University of California, Los Angeles (UCLA), where he directs a lab on Statistical Relational AI (StarAI). His recent research has focused on Neurosymbolic AI, in particular using Probabilistic Circuits: A collection of tractable models for inference on discrete random variables. Guy obtained his Ph.D. at the KU Leuven on lifted inference for StarAI.

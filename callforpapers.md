@@ -27,9 +27,9 @@ We invite researchers to submit papers, both theoretical and empirical, on all a
 <!-- * Neurosymbolic generative modeling for Interpretable AI -->
 * Structured world models
 * Object-centric learning
-* Applications of Neurosymbolic generative modeling, such as natural language processing, computer vision, programming, and robotics
+* Applications of Neurosymbolic generative modeling (e.g., natural language processing, computer vision, programming, robotics)
 
-Researchers in the broader fields of generative modeling and Neurosymbolic AI are encouraged to submit work if the relevance to the intersection of Neurosymbolic and generative modeling is clear. Please ask on our [Google Groups](https://groups.google.com/g/nesy-gems2023) or [mail us](mailto:nesygems2023@gmail.com) when in doubt if a paper fits the topic of the workshop.
+Please ask on our [Google Groups](https://groups.google.com/g/nesy-gems2023) or [mail us](mailto:nesygems2023@gmail.com) when in doubt if a paper fits the topic of the workshop. Researchers in the broader fields of generative modeling and Neurosymbolic AI are encouraged to submit papers if the relevance to the topic of the workshop is clear. 
 
 We will provide the submission link provided soon.
 

@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-We encourage posting all general questions on our [Google Groups](https://groups.google.com/g/nesy-gems2023). For private or specific questions, contact [nesygems2023@gmail.com](mailto:nesygems2023@gmail.com).
+- General discussion: [Google Groups](https://groups.google.com/g/nesy-gems2023)
+- Email:[nesygems2023@gmail.com](mailto:nesygems2023@gmail.com)
+- Twitter: [@NeSy_GeMs](https://twitter.com/NeSy_GeMs/)

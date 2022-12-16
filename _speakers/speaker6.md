@@ -6,7 +6,7 @@ name: Tuan Anh Le
 webpage: https://www.tuananhle.co.uk/
 
 # Primary affiliation of the speaker
-affil: Google Research, Boston
+affil: Google Research, USA
 # Link to the speaker's primary affiliation
 affil_link: https://research.google/
 

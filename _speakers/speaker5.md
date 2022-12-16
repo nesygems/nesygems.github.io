@@ -6,7 +6,7 @@ name: Leslie P. Kaelbling
 webpage: https://people.csail.mit.edu/lpk/
 
 # Primary affiliation of the speaker
-affil: Massachusetts Institute of Technology, Boston
+affil: MIT, USA 
 # Link to the speaker's primary affiliation
 affil_link: https://web.mit.edu/
 

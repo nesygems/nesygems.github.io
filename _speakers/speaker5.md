@@ -11,7 +11,7 @@ affil: Massachusetts Institute of Technology, Boston
 affil_link: https://web.mit.edu/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: Leslie.png
+img: Leslie.jpg
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->

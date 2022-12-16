@@ -10,9 +10,9 @@ layout: home
   <img src="logo_without_background.png" width="30%"/>
 </p>
 
-NeSy-GeMs (Neurosymbolic Generative Models) is a new hybrid workshop at ICLR 2023 to discuss the intersection of Neurosymbolic and generative modeling. Please join us either virtually or in Kigali!
-
 Neurosymbolic Generative Models have recently gained attention as a promising approach to integrate the strengths of both symbolic reasoning and deep generative modeling. These models combine the ability of symbolic models to explicitly represent abstract concepts and logical reasoning with the ability of neural models to learn and generalize from data.
+
+NeSy-GeMs (Neurosymbolic Generative Models) is a new hybrid workshop at ICLR 2023 to discuss the intersection of Neurosymbolic and generative modeling. You can join us either virtually or in Kigali.
 
 ### Important dates
 * **Call for Papers released**: Dec. 16th, 2022

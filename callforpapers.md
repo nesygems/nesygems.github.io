@@ -12,7 +12,6 @@ permalink: /callforpapers/
 * **Hybrid workshop date**: May 4th or May 5th, 2023
 
 
-# Call for papers
 Neurosymbolic generative models have recently gained significant attention as a promising approach to integrate the strengths of both symbolic and neural models. These models combine the ability of symbolic models to explicitly represent abstract concepts and logical reasoning with the ability of neural models to learn and generalize from data.
 
 NeSy-GeMs will be a hybrid workshop. We invite short papers and extended abstracts of recently published work, both max 4 pages without references. We will do light double-blind reviewing on Openreview. Reviews will remain closed after the decisions, and this workshop will have no proceedings.

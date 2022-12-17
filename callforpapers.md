@@ -14,7 +14,7 @@ permalink: /callforpapers/
 
 Neurosymbolic generative models have recently gained significant attention as a promising approach to integrate the strengths of both symbolic and neural models. These models combine the ability of symbolic models to explicitly represent abstract concepts and logical reasoning with the ability of neural models to learn and generalize from data.
 
-NeSy-GeMs will be a hybrid workshop. We invite short papers and extended abstracts of recently published work, both max 4 pages without references. We will do light double-blind reviewing on Openreview. Reviews will remain closed after the decisions, and this workshop will have no proceedings (it is non-archival). Authors do not have to go attend the workshop in person if they can not go to Kigali: we will allow authors to present their posters virtually. 
+NeSy-GeMs will be a hybrid workshop. We invite short papers and extended abstracts of recently published work, both max 4 pages without references. We will do light double-blind reviewing on Openreview. Reviews will remain closed after the decisions, and this workshop will have no proceedings (it is non-archival). Authors can present a poster in-person if they come to Kigali. If authors cannot come, they can present their posters virtually. 
 
 We invite researchers to submit papers, both theoretical and empirical, on all aspects of Neurosymbolic generative models, including but explicitly not limited to:
 * Neurosymbolic Programming

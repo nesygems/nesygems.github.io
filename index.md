@@ -35,7 +35,7 @@ We target researchers from different backgrounds. NeSy-GeMs encourages short pap
 - **[Kevin Ellis](https://www.cs.cornell.edu/~ellisk/)** (Cornell University)
 
 ### Program Committee
-TBA
+TBA. If you would like to help with reviewing or know someone who could help, fill in [this Google form](https://docs.google.com/forms/d/13aP8zWqTxQ-8AGN8feCtj4OCbV35Mc2UkAkMnS3nLzU/edit?ts=639caee0).
 
 ### Contact
 We encourage posting all general questions on our [Google Groups](https://groups.google.com/g/nesy-gems2023). For private or specific questions, contact [nesygems2023@gmail.com](mailto:nesygems2023@gmail.com).

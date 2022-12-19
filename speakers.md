@@ -1,5 +1,5 @@
 ---
 layout: speakers
-title: Speakers
+title: Invited Speakers
 permalink: /speakers/
 ---

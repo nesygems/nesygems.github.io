@@ -33,6 +33,6 @@ We invite researchers to submit papers, both theoretical and empirical, on all a
 
 Please ask on our [Google Groups](https://groups.google.com/g/nesy-gems2023) or [mail us](mailto:nesygems2023@gmail.com) when in doubt if a paper fits the topic of the workshop. Researchers in the broader fields of generative modeling and Neurosymbolic AI are encouraged to submit papers if the relevance to the topic of the workshop is clear. 
 
-Submit papers on [Openreview](https://openreview.net/group?id=ICLR.cc/2023/Workshop/NeSy-GeMs).
+Papers can be submitted on [Openreview](https://openreview.net/group?id=ICLR.cc/2023/Workshop/NeSy-GeMs).
 
 We encourage posting all general questions about the call for papers on our [Google Groups](https://groups.google.com/g/nesy-gems2023). For private or specific questions, contact [nesygems2023@gmail.com](mailto:nesygems2023@gmail.com).

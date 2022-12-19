@@ -11,7 +11,6 @@ permalink: /callforpapers/
 * **Camera-ready deadline**: Apr. 20th, 2023 (AoE)
 * **Hybrid workshop date**: May 4th or May 5th, 2023
 
-Submission link: [Openreview](https://openreview.net/group?id=ICLR.cc/2023/Workshop/NeSy-GeMs).
 
 Neurosymbolic generative models have recently gained significant attention as a promising approach to integrate the strengths of both symbolic and neural models. These models combine the ability of symbolic models to explicitly represent abstract concepts and logical reasoning with the ability of neural models to learn and generalize from data.
 

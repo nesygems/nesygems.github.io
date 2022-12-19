@@ -15,4 +15,4 @@ img: Leslie.jpg
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
-Leslie Pack Kaelbling is a Panasonic Professor at the Massachusetts Institute of Technology. She is a well-known roboticist, with research on topics including POMDPs and reinforcement learning, for which she received the IJCAI Computers and Thought Award in 1997. She co-founded the Journal of Machine Learning Research. Leslie Ph.D. in 1990 at Stanford University on Learning in Embedded Systems. Recent work includes applications of Neurosymbolic Programming to robotics and reinforcement learning.
+Leslie Pack Kaelbling is a Panasonic Professor at the Massachusetts Institute of Technology. She is a well-known roboticist, with research on topics including POMDPs and reinforcement learning, for which she received the IJCAI Computers and Thought Award in 1997. She co-founded the Journal of Machine Learning Research. Leslie completed her Ph.D. in 1990 at Stanford University on Learning in Embedded Systems. Recent work includes applications of Neurosymbolic Programming to robotics and reinforcement learning.

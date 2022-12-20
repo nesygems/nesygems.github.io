@@ -23,7 +23,7 @@ NeSy-GeMs (Neurosymbolic Generative Models) is a new hybrid workshop at ICLR 202
 
 We target researchers from different backgrounds. NeSy-GeMs encourages short papers (4 pages) and extended abstracts on recently published work. See the [call for papers](callforpapers.md) for more information.
 
-Submission link: [Openreview](https://openreview.net/group?id=ICLR.cc/2023/Workshop/NeSy-GeMs).
+Papers can be submitted through [Openreview](https://openreview.net/group?id=ICLR.cc/2023/Workshop/NeSy-GeMs).
 
 <!-- For questions, reach out to [our Google Groups](https://groups.google.com/g/nesy-gems2023). -->
 

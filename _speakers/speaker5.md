@@ -1,18 +1,19 @@
 ---
 # Name of the speaker
-name: Leslie P. Kaelbling
+name: Tuan Anh Le
 
 # Link to the speaker's webpage
-webpage: https://people.csail.mit.edu/lpk/
+webpage: https://www.tuananhle.co.uk/
 
 # Primary affiliation of the speaker
-affil: MIT, USA 
+affil: Google Research, USA
 # Link to the speaker's primary affiliation
-affil_link: https://web.mit.edu/
+affil_link: https://research.google/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: Leslie.jpg
+img: Tuan-Anh.png
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
-Leslie Pack Kaelbling is a Panasonic Professor at the Massachusetts Institute of Technology. She is a well-known roboticist, with research on topics including POMDPs and reinforcement learning, for which she received the IJCAI Computers and Thought Award in 1997. She co-founded the Journal of Machine Learning Research. Leslie completed her Ph.D. in 1990 at Stanford University on Learning in Embedded Systems. Recent work includes applications of Neurosymbolic Programming to robotics and reinforcement learning.
+
+Tuan Anh Le is a research scientist at Google. He works on Probabilistic Programming and Generative modeling. Tuan Anh adapted the wake-sleep algorithm to generate computer programs. He was a postdoctoral associate at MIT, working with Josh Tenenbaum. Before that, he obtained his Ph.D. in 2019 at the University of Oxford, where he studied amortized inference for probabilistic programming.

@@ -9,7 +9,7 @@ permalink: /callforpapers/
 * **Paper submission deadline**: Feb. 3rd, 2023 (AoE)
 * **Reviews released**: Mar. 3rd, 2023
 * **Camera-ready deadline**: Apr. 20th, 2023 (AoE)
-* **Hybrid workshop date**: May 4th or May 5th, 2023
+* **Hybrid workshop date**: May 4th, 2023
 
 
 Neurosymbolic generative models have recently gained significant attention as a promising approach to integrate the strengths of both symbolic and neural models. These models combine the ability of symbolic models to explicitly represent abstract concepts and logical reasoning with the ability of neural models to learn and generalize from data.

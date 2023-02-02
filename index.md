@@ -36,7 +36,7 @@ Papers can be submitted through [Openreview](https://openreview.net/group?id=ICL
 - **[Kevin Ellis](https://www.cs.cornell.edu/~ellisk/)** (Cornell University)
 
 ### Program Committee
-TBA. If you would like to help with reviewing or know someone who could help, fill in [this Google form](https://docs.google.com/forms/d/13aP8zWqTxQ-8AGN8feCtj4OCbV35Mc2UkAkMnS3nLzU/edit?ts=639caee0).
+Christo Thomas (Virginia Tech), Elvira Amador-Domínguez (UPM), Hanna Abi Akl (Data ScienceTech), Lauren Nicole DeLong (University of Edinburgh), Mihaela C Stoian (University of Oxford), Tommaso Carraro (FBK Trento), Abhishek Sinha (Waymo), Alessandro Daniele (FBK Trento), Andreas W.M. Sauter (VU Amsterdam), Atharva Sehgal (University of Texas), Christopher Hahn (Stanford University), Daniel Daza (VU Amsterdam), David Friede (Universität Mannheim), Ehsan Shareghi (Monash University), Eleonora Giunchiglia (TU Wien), Emanuele Sansone (KU Leuven), Erman Acar (University of Amsterdam), Giuseppe Marra (KU Leuven), Gunjan Aggarwal (Georgia Tech), Harman Singh (Meta AI), Jan-Christoph Kalo (VU Amsterdam), Jedrzej Potoniec (Poznan University), Megan Tjandrasuwita (MIT), Patrick Emami (NREL), Robin Manhaeve (KU Leuven), Sebastijan Dumancic (TU Delft), Sharvaree Vadgama (University of Amsterdam), Sreejan Kumar (Princeton), Stefano Teso (University of Trento), Thomas Demeester (University of Gent), Tomasz Korbak (NYU), Zhe Zeng (UCLA)
 
 ### Contact
 We encourage posting all general questions on our [Google Groups](https://groups.google.com/g/nesy-gems2023). For private or specific questions, contact [nesygems2023@gmail.com](mailto:nesygems2023@gmail.com).

@@ -8,7 +8,7 @@ permalink: /callforpapers/
 * **Call for Papers released**: ~~Dec. 16th, 2022~~
 * **Paper submission deadline**: ~~Feb. 8th, 2023 (AoE)~~
 * **Review period starts**: ~~Feb. 11th, 2023~~
-* **Review period ends**: Feb. 11th, 2023
+* **Review period ends**: Feb. 25th, 2023
 * **Reviews released**: Mar. 3rd, 2023
 * **Camera-ready deadline**: Apr. 20th, 2023 (AoE)
 * **Hybrid workshop date**: May 4th, 2023

@@ -5,6 +5,6 @@ webpage: https://judy.fan
 affil: University
 affil_link: https://university.edu
 img: judy.jpg
-title: Talk by Judy Fan
+title: Invited Talk by Judy Fan
 time: 1630 - 1715
 ---

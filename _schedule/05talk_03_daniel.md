@@ -5,6 +5,6 @@ webpage: https://daniel.tarlow
 affil: University
 affil_link: https://university.edu
 img: daniel.jpg
-title: Talk by Daniel Tarlow
+title: Invited Talk by Daniel Tarlow
 time: 1400 - 1445
 ---

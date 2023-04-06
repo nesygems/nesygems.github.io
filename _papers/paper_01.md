@@ -1,8 +1,8 @@
 ---
 sequence_id: 1
-title: Probabilistic object detection - strengths, weaknesses, opportunities
-authors: Dhaivat Bhatt, Dishank Bansal, Gunshi Gupta, Hanju Lee, Krishna Murthy Jatavallabhula, and Liam Paull
-affil: Mila, Universite de Montreal, and Denso
+title: "SlotDiffusion: Unsupervised Object-Centric Learning with Diffusion Models"
+authors: Ziyi Wu, Jingyu Hu, Wuyue Lu, Igor Gilitschenski, Animesh Garg
+affil: 
 pdf: 01.pdf
 img: 01.png
 ---

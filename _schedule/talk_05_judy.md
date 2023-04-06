@@ -1,10 +1,10 @@
 ---
-sequence_id: 10
-speaker: Guy van den Broeck
-webpage: https://guy.vandenbroeck
+sequence_id: 9
+speaker: Judy Fan
+webpage: https://judy.fan
 affil: University
 affil_link: https://university.edu
-img: guy.jpg
-title: Talk by Guy van den Broeck
-time: 1715 - 1800
+img: judy.jpg
+title: Talk by Judy Fan
+time: 1630 - 1715
 ---

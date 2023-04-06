@@ -1,10 +1,10 @@
 ---
-sequence_id: 6
-speaker: Tuan Anh Le
-webpage: https://tuananh.le
+sequence_id: 10
+speaker: Guy van den Broeck
+webpage: https://guy.vandenbroeck
 affil: University
 affil_link: https://university.edu
-img: tuananh.jpg
-title: Talk by Tuan Anh Le
-time: 1445 - 1530
+img: guy.jpg
+title: Talk by Guy van den Broeck
+time: 1715 - 1800
 ---

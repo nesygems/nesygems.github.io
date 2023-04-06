@@ -1,8 +1,8 @@
 ---
-sequence_id: 2
-title: "LAMBADA: Backward Chaining for Automated Reasoning in Natural Language"
-authors: Seyed Mehran Kazemi, Najoung Kim, DEEPTI BHATIA, Xin Xu, Deepak Ramachandran
+sequence_id: 3
+title: "Deep Generative Symbolic Regression with Monte-Carlo-Tree-Search"
+authors: Pierre-Alexandre Kamienny, Guillaume Lample, sylvain lamprier, Marco Virgolin
 affil: 
-pdf: 02.pdf
-img: 02.png
+pdf: 03.pdf
+img: 03.png
 ---

@@ -36,9 +36,9 @@ header_pages:
 # - callforpapers.md
 - schedule.md
 - speakers.md
+- papers.md
 # - organizers.md
 - contact.md
-#- papers.md
 
 # Define collections (speakers, organizers, papers)
 # To turn off any of these collections, just set "output" to "false"

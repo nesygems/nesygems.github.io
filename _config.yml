@@ -33,11 +33,11 @@ plugins:
 
 header_pages:
 - index.md
-- callforpapers.md
+# - callforpapers.md
+- schedule.md
 - speakers.md
 # - organizers.md
 - contact.md
-#- schedule.md
 #- papers.md
 
 # Define collections (speakers, organizers, papers)

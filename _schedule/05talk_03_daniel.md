@@ -6,5 +6,5 @@ affil: University
 affil_link: https://university.edu
 img: daniel.jpg
 title: Invited Talk by Daniel Tarlow
-time: 1400 - 1445
+time: 1330 - 1415
 ---

@@ -1,6 +1,6 @@
 ---
 sequence_id: 2
 speaker: Poster authors
-title: Poster Previews
-time: 1100 - 1145
+title: Online Spotlight Talks 1
+time: 1100 - 1130
 ---

@@ -6,5 +6,5 @@ affil: University
 affil_link: https://university.edu
 img: judy.jpg
 title: Invited Talk by Judy Fan
-time: 1630 - 1715
+time: 16:30 - 17:15
 ---

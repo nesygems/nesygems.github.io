@@ -6,5 +6,5 @@ affil: University
 affil_link: https://university.edu
 img: mathias.jpg
 title: Invited Talk by Mathias Niepert
-time: 1015 - 1100
+time: 10:15 - 11:00
 ---

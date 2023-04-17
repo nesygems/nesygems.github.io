@@ -6,5 +6,5 @@ affil: University
 affil_link: https://university.edu
 img: tuananh.jpg
 title: Invited Talk by Tuan Anh Le
-time: 1415- 1500
+time: 14:15- 15:00
 ---

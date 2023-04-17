@@ -6,5 +6,5 @@ affil: University
 affil_link: https://university.edu
 img: guy.jpg
 title: Invited Talk by Guy van den Broeck
-time: 1715 - 1800
+time: 17:15 - 18:00
 ---

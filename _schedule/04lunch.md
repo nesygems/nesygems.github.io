@@ -2,5 +2,5 @@
 sequence_id: 4
 speaker: Organizers
 title: Lunch
-time: 1200 - 1330
+time: 12:00 - 13:30
 ---

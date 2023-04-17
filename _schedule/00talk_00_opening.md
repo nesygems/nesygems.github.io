@@ -9,5 +9,5 @@ speaker: Organizers
 title: Opening remarks
 
 # Time of the event
-time: 1000 - 1015
+time: 10:00 - 10:15
 ---

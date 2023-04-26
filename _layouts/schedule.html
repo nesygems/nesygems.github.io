@@ -33,6 +33,11 @@ layout: default
 		        	<div class="col-xs-12">
 			        	<b>{{ scheduleitem.title }}</b>
 		        	</div>
+				{% if scheduleitem.description }
+				<div>
+					{{scheduleitem.description}}
+				</div>
+				{% endif %}
 		        </td>
 		        <td>
 		            <div class="people-name text-center">

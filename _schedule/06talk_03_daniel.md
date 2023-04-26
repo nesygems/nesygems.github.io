@@ -1,10 +1,10 @@
 ---
 sequence_id: 7
 speaker: Daniel Tarlow
-webpage: https://daniel.tarlow
-affil: University
-affil_link: https://university.edu
+webpage: http://www.cs.toronto.edu/~dtarlow/
+affil: Google Brain, Canada 
+affil_link: https://research.google/people/DannyTarlow/
 img: daniel.jpg
-title: Invited Talk by Daniel Tarlow
+title: Invited Talk by Daniel Tarlow (title TBA)
 time: 14:55 - 15:40
 ---

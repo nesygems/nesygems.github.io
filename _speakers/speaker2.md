@@ -16,4 +16,4 @@ img: Judith.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Judith Fan is an assistant professor at the University of California, San Diego, in the Department of Psychology, leading the Cognitive Tools Lab. She employs converging approaches from cognitive science, computational neuroscience, and artificial intelligence to reverse engineer the human mind. In 2016, she obtained a Ph.D. at Princeton University on the role of cognitive actions in learning.
+Judy Fan is currently Assistant Professor of Psychology at the University of California, San Diego and incoming Assistant Professor of Psychology at Stanford University in July 2023. Research in her lab aims to reverse engineer the human cognitive toolkit, especially how people use physical representations of thought to learn, communicate, and solve problems. Towards this end, her lab employs converging approaches from cognitive science, computational neuroscience, and artificial intelligence. She received her PhD in Psychology from Princeton University and her AB in Neurobiology and Statistics from Harvard College.

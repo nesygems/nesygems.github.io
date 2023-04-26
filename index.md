@@ -18,7 +18,7 @@ NeSy-GeMs (Neurosymbolic Generative Models) is a new hybrid workshop at ICLR 202
 * **Call for Papers released**: ~~Dec. 16th, 2022~~
 * **Paper submission deadline**: ~~Feb. 8th, 2023 (AoE)~~
 * **Reviews released**: ~~Mar. 3rd, 2023~~
-* **Camera ready deadline**: Apr. 22th, 2023 (AoE)
+* **Camera ready deadline**: ~~Apr. 22th, 2023 (AoE)~~
 * **Poster and prerecorded presentation deadline**: Apr. 30th, 2023 (AoE)
 * **Hybrid workshop date**: May 4th, 2023
 

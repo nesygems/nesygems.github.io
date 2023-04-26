@@ -5,4 +5,5 @@ authors: Alexandr Korchemnyi, Alexey Kovalev, Aleksandr Panov
 affil: 
 pdf: hyperdimensional.pdf
 img: 08.png
+iclrlink: https://iclr.cc/virtual/2023/14406
 ---

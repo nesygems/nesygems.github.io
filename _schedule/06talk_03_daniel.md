@@ -1,10 +1,10 @@
 ---
-sequence_id: 5
+sequence_id: 7
 speaker: Daniel Tarlow
 webpage: https://daniel.tarlow
 affil: University
 affil_link: https://university.edu
 img: daniel.jpg
 title: Invited Talk by Daniel Tarlow
-time: 13:30 - 14:15
+time: 14:55 - 15:40
 ---

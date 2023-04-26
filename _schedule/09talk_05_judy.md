@@ -5,6 +5,6 @@ webpage: https://judy.fan
 affil: University
 affil_link: https://university.edu
 img: judy.jpg
-title: Invited Talk by Judy Fan
+title: Discovering abstractions that bridge perception, action, and communication
 time: 16:30 - 17:15
 ---

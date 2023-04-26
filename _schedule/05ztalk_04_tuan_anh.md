@@ -5,6 +5,6 @@ webpage: https://tuananh.le
 affil: University
 affil_link: https://university.edu
 img: tuananh.jpg
-title: Invited Talk by Tuan Anh Le
-time: 14:15- 15:00
+title: Building AI with neuro-symbolic generative models
+time: 14:10 - 14:55
 ---

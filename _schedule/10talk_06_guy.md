@@ -5,6 +5,6 @@ webpage: https://guy.vandenbroeck
 affil: University
 affil_link: https://university.edu
 img: guy.jpg
-title: Invited Talk by Guy van den Broeck
+title: AI can learn from data. But can it learn to reason?
 time: 17:15 - 18:00
 ---

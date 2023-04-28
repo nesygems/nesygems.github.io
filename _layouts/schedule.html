@@ -13,10 +13,10 @@ layout: default
 	  <table>
 	  	{% for scheduleitem in site.schedule %}
 		    <tr>
-		        <td>
-		            <!-- <p align="center"> -->
+		        <td width=182px>
+		            <p align="center">
 		                {{ scheduleitem.time }}
-		            <!-- </p> -->
+		            </p>
 		        </td>
 		        <!-- <td>
 		            <div class="col-xs-12">
@@ -40,7 +40,7 @@ layout: default
 				{% endif %}
 		        </td>
 		        <td>
-		            <div class="people-name text-center">
+		            <div class="people-name text-center" width=182px>
 		            	<!-- scheduleitem name (link to webpage if provided) -->
 		            	{% if scheduleitem.webpage %}
 		            		<a href="{{ scheduleitem.webpage }}" target="_blank">{{ scheduleitem.speaker }}</a>
